@@ -1,1 +1,6 @@
-*.exe
+*
+!*.c
+!README.md
+!Makefile
+!downloaded
+!theHardWay
