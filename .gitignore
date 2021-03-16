@@ -1,8 +1,1 @@
-*
-!*.c
-!README.md
-!Makefile
-!downloaded
-!theHardWay
-theHardWay.pdf
-!index.html
+*.exe
