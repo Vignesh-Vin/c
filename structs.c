@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<string.h>
+
+// Basically these are like classes in JavaScript
+
 struct Student
 {
 	char name[10];
